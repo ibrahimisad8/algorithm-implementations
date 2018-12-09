@@ -1,6 +1,5 @@
 // you can use includes, for example:
 // #include &lt;algorithm&gt;
- 
 // you can write to stdout for debugging purposes, e.g.
 // cout &lt;&lt; "this is a debug message" &lt;&lt; endl;
  

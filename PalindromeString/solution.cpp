@@ -1,6 +1,5 @@
 #include<iostream.h>
 #include<conio.h>
-
 void main()
 {
     int i,j,len,flag=1; char a[20];
