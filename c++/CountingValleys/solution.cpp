@@ -1,3 +1,6 @@
+/**
+ * Codility Test
+ */
 #include <bits/stdc++.h>
 using namespace std;
 // Complete the countingValleys function below.
