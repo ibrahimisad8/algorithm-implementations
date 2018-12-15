@@ -1,6 +1,6 @@
-# Chapter 3
-
-## Time Complexity
+# Time Complexity
+## Codility
+### url : https://app.codility.com/programmers/lessons/3-time_complexity/
 
 Use of time complexity makes it easy to estimate the running time of a program. Performing
 an accurate calculation of a program’s operation time is a very labour-intensive process
