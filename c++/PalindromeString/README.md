@@ -1,1 +1,3 @@
 # Palindrome String
+## Hackerank
+### url : https://www.hackerrank.com/challenges/palindrome-index/problem
