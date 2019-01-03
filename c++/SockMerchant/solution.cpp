@@ -6,7 +6,6 @@ using namespace std;
 
 vector<string> split_string(string);
 
-// Complete the sockMerchant function below.
 int sockMerchant(int n, vector<int> ar) 
 {   
    sort(ar.begin(), ar.end());
